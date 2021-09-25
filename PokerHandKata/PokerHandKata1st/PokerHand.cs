@@ -322,7 +322,7 @@ namespace PokerHandKata1st
                 case DeckCategory.full_house:
                     return "full house";
                 case DeckCategory.straight:
-                    return "full house";
+                    return "straight";
                 case DeckCategory.three_of_a_kind:
                     return "three of a kind";
                 case DeckCategory.two_pairs:
